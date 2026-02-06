@@ -1,0 +1,7 @@
+Joshim,123890,123-89,30,Male,Chef,6000
+Karim,123890,123-89,30,Male,Cleaner,7000
+Rahim,123890,123-89,30,Male,Server,6000
+Mafruk,0123,111,21,Male,Manager,5000
+Rafi,0153434,55,21,Male,Cleaner,4000
+Fahad,34634,676,34,Male,Chef,4000
+adfdskjf,adfsdf,12,21,adfas,adfa,121221
